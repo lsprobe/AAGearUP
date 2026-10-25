@@ -1,0 +1,21 @@
+AAGearUP
+Copyright (c) 2026 AAGearUP. All rights reserved.
+
+AAGearUP is proprietary software. Its source code is not published.
+
+You may download and install the AAGearUP application for personal use.
+A 14-day trial is provided free of charge; continued use requires a paid
+license, which covers one active device at a time.
+
+You may not copy, modify, decompile, reverse engineer, redistribute, resell,
+rent or publish the application or any part of it, except where such a
+restriction is not permitted by applicable law.
+
+Use of AAGearUP is subject to the Terms of Service at
+https://aagearup.com/terms.html and the Privacy Policy at
+https://aagearup.com/privacy.html.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, TO THE
+EXTENT PERMITTED BY APPLICABLE LAW. Mandatory consumer rights are not affected.
+
+Contact: support@aagearup.com

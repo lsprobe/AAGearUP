@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/lsprobe/AAGearUP/releases/latest/download/AAGearUP.apk"><b>⬇ Download AAGearUP</b></a>
   &nbsp;·&nbsp;
-  <a href="https://aagearup.com/install.html"><b>Install guide</b></a>
+  <a href="INSTALL.md"><b>Install guide</b></a>
   &nbsp;·&nbsp;
   <a href="https://aagearup.com">aagearup.com</a>
   &nbsp;·&nbsp;
@@ -70,7 +70,7 @@ No new subscriptions, no complicated setup: install it once, sign in with your o
 2. **Install it with KingInstaller** so Android Auto lists the app.
 3. **Turn it on** in *Android Auto → Customize launcher*, connect to your car and open AAGearUP.
 
-📖 **The complete step-by-step guide with pictures, including the Shizuku option and troubleshooting, is on [aagearup.com/install](https://aagearup.com/install.html).**
+📖 **The complete step-by-step guide with screenshots, including the Shizuku option and troubleshooting: [INSTALL.md](INSTALL.md)** (also on [aagearup.com/install](https://aagearup.com/install.html)).
 
 **Updating:** install the new APK the same way, over the existing app. Your favorites, settings and license stay.
 

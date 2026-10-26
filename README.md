@@ -40,7 +40,7 @@ AAGearUP puts a real web browser on your Android Auto screen. Pin the sites you 
 
 AAGearUP is not on Google Play. Android Auto shows only apps installed from Play, so AAGearUP is installed with **KingInstaller**.
 
-1. **Download** `AAGearUP-1.1.apk` from [Releases](https://github.com/lsprobe/AAGearUP/releases/latest) and the KingInstaller APK to your phone.
+1. **Download** `AAGearUP.apk` from [Releases](https://github.com/lsprobe/AAGearUP/releases/latest) and the KingInstaller APK to your phone.
 2. **Install KingInstaller.** Open the file; if Android asks, allow *Install unknown apps* for your browser or Files app.
 3. **Install AAGearUP with KingInstaller:** open KingInstaller, pick the AAGearUP APK, tap *Install*.
 4. **Show it in the car:** phone *Settings → Android Auto → Customize launcher* → turn on **AAGearUP**.

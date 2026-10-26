@@ -28,6 +28,7 @@ Open YouTube, Stremio, news or any website you like, keep your favorite sites on
 
 No new subscriptions, no complicated setup: install it once, sign in with your own accounts, and your car screen is ready.
 
+- 🎬 **Video in Motion** – strictly for the passenger. Check settings in the phone app.
 - 🌐 **A full browser in the car** — any website, with the Android Auto keyboard or voice search.
 - ⭐ **Your own home screen** — favorite sites with icons, recent pages and *Continue* right where you left off.
 - 🎛️ **Steering-wheel control** — play/pause and skip YouTube videos with your steering-wheel buttons, jump ±10 seconds.

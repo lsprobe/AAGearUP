@@ -18,19 +18,14 @@ AAGearUP puts a real web browser on your Android Auto screen. Pin the sites you 
 
 ![Car settings](screenshots/2-car-settings.png)
 
-**3. While driving: audio only, clock and a calm equalizer**
-
-![Driving screen](screenshots/3-car-driving.png)
-
-**4. Phone companion: browse on the phone, show it in the car**
+**3. Phone companion: browse on the phone, show it in the car**
 
 <img src="screenshots/4-phone.png" alt="Phone app" width="320">
 
 ## Why it is different
 
 - **A full browser in the car** – any website, signed in with your own accounts.
-- **Made for parking breaks** – YouTube and video on the big screen while parked.
-- **Safe while driving** – video is hidden as soon as the car moves; audio, clock and playback controls stay.
+- **Safe while driving** – video is hidden as soon as the car moves; (can be disabled)
 - **Phone companion** – type and search on the phone, send the page to the car, use the phone as a YouTube remote.
 - **Six color themes**, adjustable screen scale and audio/video sync.
 

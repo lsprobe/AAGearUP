@@ -1,8 +1,13 @@
-# Install AAGearUP
+# Install AAGearUP with KingInstaller
 
-With KingInstaller, in about ten minutes. Written for Samsung (One UI) phones; on other phones skip the Auto Blocker step.
+The classic method, in about ten minutes. Tested on a Samsung phone. If Android Auto doesn't show AAGearUP afterwards, use the **[Shizuku method](INSTALL-SHIZUKU.md)**.
 
-**[⬇ Download AAGearUP.apk](https://github.com/lsprobe/AAGearUP/releases/latest/download/AAGearUP.apk)** · [KingInstaller releases](https://github.com/fcaronte/KingInstaller/releases) · [This guide on aagearup.com](https://aagearup.com/install.html)
+**[⬇ Download AAGearUP.apk](https://github.com/lsprobe/AAGearUP/releases/latest/download/AAGearUP.apk)** · [KingInstaller releases](https://github.com/fcaronte/KingInstaller/releases) · [This guide on aagearup.com](https://aagearup.com/install)
+
+| Method | For | Time |
+|---|---|---|
+| **KingInstaller** (this guide) | Samsung and most phones | ~10 min |
+| **[KingInstaller + Shizuku](INSTALL-SHIZUKU.md)** | Google Pixel, or when the classic method fails | ~20 min |
 
 <sub>Tested with KingInstaller v2.4 and Android Auto 17.9.</sub>
 
@@ -13,7 +18,7 @@ With KingInstaller, in about ten minutes. Written for Samsung (One UI) phones; o
 
 These two protections stop apps from outside the Play Store. Switch them off for the install; you’ll turn them back on in step 7.
 
-### Samsung Auto Blocker
+### Samsung Auto Blocker (Samsung only)
 
 1. Open **Settings** → **Security and privacy** → **Auto Blocker**.
 2. Turn the switch **Off**.
@@ -79,6 +84,9 @@ Android Auto has its own hidden developer mode. Without it, apps from outside Go
 
 <img src="install/11-aa-launcher.jpg" width="220" alt="Customize launcher with AAGearUP ticked">
 
+> **⏱️ AAGearUP doesn’t appear in Android Auto?**  
+> On some phones (for example Google Pixel and many non-Samsung models) the classic install isn’t enough: AAGearUP installs, but it’s missing from Customize launcher or Android Auto rejects it. Uninstall AAGearUP and follow the [Shizuku method](INSTALL-SHIZUKU.md).
+
 ## 6. Open it in the car
 
 1. Connect the phone to the car, with a cable or wireless Android Auto.
@@ -112,13 +120,13 @@ Every feature is free for 14 days. To keep using AAGearUP, open it on your phone
 
 **The install is blocked or nothing happens.** Auto Blocker has probably switched itself back on. Turn it off and try again.
 
-**AAGearUP is installed but not in Customize launcher.** It wasn’t installed with KingInstaller. Uninstall it and repeat step 3.
+**AAGearUP is installed but not in Customize launcher.** It wasn’t installed with KingInstaller, or the classic method doesn’t work on this phone. Uninstall it and repeat step 3, or use the [Shizuku method](INSTALL-SHIZUKU.md).
 
 **It’s in the list but not in the car.** Check that **Unknown sources** is ticked in Android Auto developer settings and that AAGearUP is ticked in the launcher. Disconnect and reconnect the phone.
 
 **It disappeared after an Android Auto update.** Check that the developer settings are still on. If needed, use **Check and Reinstall App** in KingInstaller or install AAGearUP again.
 
-**Not a Samsung phone.** Skip the Auto Blocker step; everything else is the same. If the install doesn’t work, use KingInstaller’s **Shizuku** method: install [Shizuku](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api), start it via **Wireless debugging** in Developer options, then select **Shizuku** under Installation Method in KingInstaller.
+**Not a Samsung phone.** Skip the Auto Blocker step and try this guide first. If it fails, use the [Shizuku method](INSTALL-SHIZUKU.md).
 
 **The car screen says “Waiting for speed data”.** Open AAGearUP on the phone and tap **Allow car speed access**, or allow it in **Settings** → **Apps** → **AAGearUP** → **Permissions** → **Location**.
 

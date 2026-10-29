@@ -28,6 +28,7 @@ Open YouTube, Stremio, news or any website you like, keep your favorite sites on
 
 No new subscriptions, no complicated setup: install it once, sign in with your own accounts, and your car screen is ready.
 
+- 🎬 Video in Motion – strictly for the passenger. Check settings in the phone app.
 - 🚘 **YouTube in the Virtual Cockpit** — for VW Group cars with a Virtual Cockpit modified with [MIB Cluster Map](https://github.com/MacsInSpace/mib-cluster-map): the video plays on the instrument cluster, the car screen stays free to pick the next one.
 - 🌐 **A full browser in the car** — any website, with the Android Auto keyboard or voice search.
 - ⭐ **Your own home screen** — favorite sites with icons, recent pages and *Continue* right where you left off.

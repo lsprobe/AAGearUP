@@ -28,7 +28,7 @@ Open YouTube, Stremio, news or any website you like, keep your favorite sites on
 
 No new subscriptions, no complicated setup: install it once, sign in with your own accounts, and your car screen is ready.
 
-- 🎬 **Video in Motion** – strictly for the passenger. Check settings in the phone app.
+- 🚘 **YouTube in the Virtual Cockpit** — for VW Group cars with a Virtual Cockpit modified with [MIB Cluster Map](https://github.com/MacsInSpace/mib-cluster-map): the video plays on the instrument cluster, the car screen stays free to pick the next one.
 - 🌐 **A full browser in the car** — any website, with the Android Auto keyboard or voice search.
 - ⭐ **Your own home screen** — favorite sites with icons, recent pages and *Continue* right where you left off.
 - 🎛️ **Steering-wheel control** — play/pause and skip YouTube videos with your steering-wheel buttons, jump ±10 seconds.
@@ -59,6 +59,7 @@ No new subscriptions, no complicated setup: install it once, sign in with your o
 | **YouTube, adapted** | Wider layout with more videos per row, compact bottom bar, automatic *Skip ad* when it appears. |
 | **Steering-wheel buttons** | Control YouTube with the buttons on your steering wheel: play/pause, previous and next video. |
 | **Playback controls** | Jump back or forward 10 seconds, previous / next track and play/pause on the car screen. |
+| **Virtual Cockpit** | For VW Group cars with a Virtual Cockpit modified with [MIB Cluster Map](https://github.com/MacsInSpace/mib-cluster-map). YouTube plays on the instrument cluster while you browse on the car screen. One button moves the video between the cockpit and the car screen, from the same second. Video size from 70 % to 155 %. |
 | **Video on any site** | AAGearUP detects the video on the web page you open. Press one button and it goes fullscreen. |
 | **Video size** | Fill the screen, show the whole frame or stretch – choose how video fits your display. |
 | **Audio sync** | Wireless Android Auto can delay the sound. Shift the audio later or earlier (±500 ms), with a built-in test video. |

@@ -28,16 +28,16 @@ Open YouTube, Stremio, news or any website you like, keep your favorite sites on
 
 No new subscriptions, no complicated setup: install it once, sign in with your own accounts, and your car screen is ready.
 
-- 🎬 Video in Motion – strictly for the passenger. Check settings in the phone app.
 - 🚘 **YouTube in the Virtual Cockpit** — for VW Group cars with a Virtual Cockpit modified with [MIB Cluster Map](https://github.com/MacsInSpace/mib-cluster-map): the video plays on the instrument cluster, the car screen stays free to pick the next one.
+- 📻 **Radio** — live stations from every country, your country picked automatically, favorites on the steering-wheel buttons.
 - 🌐 **A full browser in the car** — any website, with the Android Auto keyboard or voice search.
-- ⭐ **Your own home screen** — favorite sites with icons, recent pages and *Continue* right where you left off.
+- ⭐ **Your own home screen** — favorite sites with icons, recent pages and *Continue* right where you left off. YouTube and radio keep playing while you are on it.
 - 🎛️ **Steering-wheel control** — play/pause and skip YouTube videos with your steering-wheel buttons, jump ±10 seconds.
 - ▶️ **One tap to fullscreen** — AAGearUP finds the video on any web page; one button and it plays fullscreen.
 - 🔊 **Audio in sync over wireless** — on wireless Android Auto the sound can lag; delay or advance it until lips match.
 - 📱 **Phone companion** — browse on the phone and send the page to the car, or use the phone as a YouTube remote.
 - 🎨 **Make it yours** — six color themes and screen scale from 60 % to 150 %.
-- 🚗 **Fits every Android Auto screen** — from compact 800 × 480 units to HD and widescreen displays.
+- 🚗 **Fits every Android Auto screen** — from compact 800 × 480 units to HD and widescreen displays. On wide screens YouTube plays on the left and the next videos are listed on the right.
 
 ## Screenshots
 
@@ -56,8 +56,10 @@ No new subscriptions, no complicated setup: install it once, sign in with your o
 | | |
 |---|---|
 | **Browse** | YouTube, Stremio and any website in a full browser, with back, reload and scroll buttons sized for a car screen. |
+| **Radio** | Live stations from every country via [Radio Browser](https://www.radio-browser.info). Your country is picked automatically; search by name or genre, star favorites and switch them with the steering-wheel buttons. |
 | **Pick up where you left off** | *Continue* returns to your last site and video position, even after the car was switched off. |
-| **YouTube, adapted** | Wider layout with more videos per row, compact bottom bar, automatic *Skip ad* when it appears. |
+| **YouTube, adapted** | Wider layout with more videos per row, compact bottom bar, automatic *Skip ad* when it appears. On wide, low screens the video plays on the left with the next videos on the right; ⛶ hides the list. |
+| **Home keeps playing** | 🏠 opens the home screen on top of the page: YouTube or radio keeps playing, *Now playing* takes you back to the same spot. |
 | **Steering-wheel buttons** | Control YouTube with the buttons on your steering wheel: play/pause, previous and next video. |
 | **Playback controls** | Jump back or forward 10 seconds, previous / next track and play/pause on the car screen. |
 | **Virtual Cockpit** | For VW Group cars with a Virtual Cockpit modified with [MIB Cluster Map](https://github.com/MacsInSpace/mib-cluster-map). YouTube plays on the instrument cluster while you browse on the car screen. One button moves the video between the cockpit and the car screen, from the same second. Video size from 70 % to 155 %. |

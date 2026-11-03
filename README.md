@@ -58,7 +58,7 @@ No new subscriptions, no complicated setup: install it once, sign in with your o
 | **Browse** | YouTube, Stremio and any website in a full browser, with back, reload and scroll buttons sized for a car screen. |
 | **Radio** | Live stations from every country via [Radio Browser](https://www.radio-browser.info). Your country is picked automatically; search by name or genre, star favorites and switch them with the steering-wheel buttons. |
 | **Pick up where you left off** | *Continue* returns to your last site and video position, even after the car was switched off. |
-| **YouTube, adapted** | Wider layout with more videos per row, compact bottom bar, automatic *Skip ad* when it appears. On wide, low screens the video plays on the left with the next videos on the right; ⛶ hides the list. |
+| **YouTube, adapted** | Wider layout with more videos per row, compact bottom bar, automatic *Skip ad* when it appears. On wide, low screens the video plays on the left with the next videos on the right; ⛶ switches between the list, fill screen and whole frame. |
 | **Home keeps playing** | 🏠 opens the home screen on top of the page: YouTube or radio keeps playing, *Now playing* takes you back to the same spot. |
 | **Steering-wheel buttons** | Control YouTube with the buttons on your steering wheel: play/pause, previous and next video. |
 | **Playback controls** | Jump back or forward 10 seconds, previous / next track and play/pause on the car screen. |

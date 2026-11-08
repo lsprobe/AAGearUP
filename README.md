@@ -10,6 +10,8 @@
   <a href="https://aagearup.com">aagearup.com</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/lsprobe/AAGearUP/discussions">Community</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.reddit.com/r/AAGearUP/">r/AAGearUP</a>
 </p>
 
 <p align="center">
@@ -95,6 +97,7 @@ No new subscriptions, no complicated setup: install it once, sign in with your o
 ## Community and support
 
 - 💬 **[Discussions](https://github.com/lsprobe/AAGearUP/discussions)** — share your car and phone setup, ideas and tips.
+- 👽 **[r/AAGearUP](https://www.reddit.com/r/AAGearUP/)** — the AAGearUP community on Reddit: questions, setups and news.
 - 🐞 **[Issues](https://github.com/lsprobe/AAGearUP/issues)** — report a bug or something that doesn’t work. Please include your phone model, Android version and car or head unit.
 - ✉️ **support@aagearup.com** — licenses, purchases and private questions.
 
